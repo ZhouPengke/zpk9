@@ -1,0 +1,141 @@
+.menu{
+  text-align:center
+}
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;  
+
+}
+li{
+  border:2px solid #936304;
+  display:inline-block;
+  margin:0.5rem;
+    
+}
+a{
+  text-decoration:none;
+  background-color:#936304;
+  color:#40f33a;
+  padding:0.5rem;
+  display:block;
+
+}
+a:hover{
+  background-color:#078044;
+  color:#ffffff;
+}
+.LOGO {
+  -webkit-box-shadow: 10px 0px 10px 0px rgba(0, 0, 50, 0.97);
+  -moz-box-shadow: 10px 0px 10px 0px rgba(0, 0, 50, 0.97);
+  box-shadow: 10px 0px 10px 0px rgba(0, 0, 50, 0.97);
+  float: left;
+  width: 50px;
+}
+body{
+  background-image:url("background-img.jpg") ;
+  opacity:0.2 inherit;
+}
+p {
+  color: #006300;
+  line-height: 2em;
+  text-align: left;
+  width: 100%;
+  }
+  .table1{
+    border: 1px solid black;
+    float: right;
+  }
+  
+  th,td {
+    padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+  }
+h1 {
+  color:#094f18;
+  font-size: 4em;
+  padding-top: 100px;
+    text-align: center;
+  width: 100%;
+  
+  }
+  h2{
+    color:#094f18;
+  }
+  .p1{
+    width: 30%;
+    height: 20%;
+    float: right;
+  }
+  .p2{
+    width: 100%;
+    height: 80%;
+  }
+  .box{
+width: 380px;
+margin: 30px auto;
+font-family: 'Microsoft YaHei';
+font-size: 14px;
+  }
+  input{
+width: 260px;
+border: 1px solid #e2e2e2;
+height: 30px;
+float: left;
+background-image: url(images/search.jpg);
+background-repeat: no-repeat;
+background-size: 25px;
+background-position:5px center;
+padding:0 0 0 40px;
+}
+.search{
+width: 78px;
+height: 32px;
+float: right;
+background: black;
+color: white;
+text-align: center;
+line-height: 32px;
+cursor: pointer;
+}
+•wrap{
+  width: 414px;
+height: 312px;
+border: solid reb(238,238,238) 2px;
+background-color: white;
+}
+.wrap •title{
+  margin-top: 6px;
+margin-bottom:16px;
+font-size: 20px;
+color: rgb(51,51,51);
+text-align: center;
+}
+.wrap .infor{
+  text-align: center;
+color: #666;
+font-size: 16px;
+margin-bottom: 36px;
+}
+.wrap .infor a{
+  text-decoration: none;
+color: #3481cf;
+}
+.wrap #form{
+  text-align: center;
+height: 150px;
+width: 272px;
+margin: 0px auto;
+}
+.wrap #form.input{
+  height: 38px;
+  width: 268px;
+  box-sizing: border-box;
+  padding: 10px;
+  padding-right: opx;
+  margin-bottom: 17px;
+  border-radius: 3px;
+  border: solid rgb(214,214,21);
+}
